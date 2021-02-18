@@ -1,15 +1,17 @@
-### Hi there :octocat:
+### Hi there Irawan here :octocat:
 
 
-**jamirawan/jamirawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+On my Monday to Friday, I work as a digital content producer at a university in Australia and [freelance Darwin website designer](https://topendwebdesign.com.au) focusing on CMS such as Joomla, Drupal and WordPress after working hours and on the weekend.
+
+Visit my profile page: [irawan.io](https://irawan.io)
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Drupal and Wordpress projects for my clients
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me: 
-- 😄 Pronouns: he/she
-- ⚡ Fun fact: 
+- 😄 Pronouns: he
+- ⚡ Fun fact: Emperor Nasi Goreng didn't exist so the rabits were always free
 
 [![GitHub: jamirawan](https://img.shields.io/github/followers/jamirawan?label=follow&style=social)](https://github.com/jamirawan)
 <p align="left">
