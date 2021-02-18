@@ -5,11 +5,8 @@ On my Monday to Friday, I work as a digital content producer at a university in 
 
 Visit my profile page: [irawan.io](https://irawan.io)
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Drupal and Wordpress projects for my clients
-- 🌱 I’m currently learning Golang
-- 📫 How to reach me: 
+- 🌱 I’m currently learning how to be a dad and anything new about web dev constantly
 - 😄 Pronouns: he
 - ⚡ Fun fact: Emperor Nasi Goreng didn't exist so the rabits were always free
 
