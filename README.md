@@ -2,7 +2,7 @@
 
 ![Wayang Irawan skating](https://cdn.dribbble.com/users/1547499/screenshots/8616705/media/8bfa2f343b9c1834a25e45d81735a430.gif)
 
-On my Monday to Friday, I work as a digital content producer at a university in Australia and [freelance Darwin website designer](https://topendwebdesign.com.au) focusing on CMS such as Joomla, Drupal and WordPress after working hours and on the weekend.
+On my Monday to Friday, I work as a digital content producer at a university in Australia and [freelance Darwin website designer](https://topendwebdesign.com.au) mostly for small businesses in Darwin NT focusing on CMS such as Drupal and WordPress after working hours and on the weekend.
 
 
 Visit my profile page: [irawan.io](https://irawan.io)
@@ -11,6 +11,7 @@ Visit my profile page: [irawan.io](https://irawan.io)
 - 🌱 I’m currently learning how to be a dad and anything new about web dev constantly
 - 😄 Pronouns: he
 - ⚡ Fun fact: Emperor Nasi Goreng didn't exist so the rabits were always free
+- 🚣 I like outdoor activities especially on the water such as snorkelling, scuba diving and recently kayaking on Darwin NT sea water 🐊  
 
 [![GitHub: jamirawan](https://img.shields.io/github/followers/jamirawan?label=follow&style=social)](https://github.com/jamirawan)
 <p align="left">
