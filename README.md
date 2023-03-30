@@ -8,7 +8,7 @@ Visit my profile page: [irawan.io](https://irawan.io)
 - 🌱 I’m currently learning how to be a dad and anything new about web dev constantly
 - 😄 Pronouns: he
 - ⚡ Fun fact: Emperor Nasi Goreng didn't exist so the rabits were always free
-- 🚣 I like outdoor activities especially on the water such as snorkelling, scuba diving and recently kayaking around Darwin NT and Broome WA sea water 🐊
+- 🚣 I like outdoor activities especially on the water such as snorkelling, scuba diving and recently kayaking around Darwin NT and Broome WA sea water 🐊 (no fishing 🎣 thank you)
 
 [![GitHub: jamirawan](https://img.shields.io/github/followers/jamirawan?label=follow&style=social)](https://github.com/jamirawan)
 <p align="left">
