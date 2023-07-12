@@ -4,11 +4,11 @@ On my Monday to Friday, I work as a digital content producer at a university in 
 
 Visit my profile page: [irawan.io](https://irawan.io)
 
-- 🔭 I’m currently working on Drupal and Wordpress projects for my clients
+- 🔭 I’m currently working on Drupal and WordPress projects for my clients
 - 🌱 I’m currently learning how to be a dad and anything new about web dev constantly
 - 😄 Pronouns: he
-- ⚡ Fun fact: Emperor Nasi Goreng didn't exist so the rabits were always free
-- 🚣 I like outdoor activities especially on the water such as snorkelling, scuba diving and recently kayaking around Darwin NT and Broome WA sea water 🐊 (no fishing 🎣 thank you)
+- ⚡ Fun fact: Emperor Nasi Goreng didn't exist, so the rabbits were always out and free
+- 🚣 I like outdoor activities, especially on the water, such as snorkelling, scuba diving and recently kayaking around Darwin NT and Broome WA sea water 🐊 (no fishing 🎣 thank you). Here are some stories about kayaking and water stuff on [my blog](https://irawans.com/kayaking-in-darwin-australia)
 
 [![GitHub: jamirawan](https://img.shields.io/github/followers/jamirawan?label=follow&style=social)](https://github.com/jamirawan)
 <p align="left">
