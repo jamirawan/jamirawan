@@ -1,7 +1,6 @@
 ### Hi there Irawan here :octocat:
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 ![Wayang Irawan skating](https://cdn.dribbble.com/users/1547499/screenshots/8616705/media/8bfa2f343b9c1834a25e45d81735a430.gif)
 
 
