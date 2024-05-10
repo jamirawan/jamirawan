@@ -5,17 +5,6 @@
 
 Visit my profile page: [irawan.io](https://irawan.io)
 
-- 🔭 I’m currently working on Drupal and Wordpress 
-- 🌱 I’m currently learning how to be a dad and anything new about web dev constantly
-- 😄 Pronouns: he
-- ⚡ Fun fact: Emperor Nasi Goreng didn't exist so the rabits were always free
-<<<<<<< HEAD
-- 🚣 I like outdoor activities especially on the water such as snorkelling, scuba diving and recently kayaking on Darwin NT sea water 🐊  
-=======
-- 🚣 I like outdoor activities especially on the water such as snorkelling, scuba diving and recently kayaking around Darwin NT sea water 🐊
-
-Visit my profile page: [irawan.io](https://irawan.io)
-
 - 🔭 I’m currently working on Drupal and WordPress projects for my clients
 - 🌱 I’m currently learning how to be a dad and anything new about web dev constantly
 - 😄 Pronouns: he
