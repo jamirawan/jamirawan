@@ -23,6 +23,4 @@ Visit my profile page: [irawan.io](https://irawan.io)
 ![Irawan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamirawan)
 
 
-|:---------------------------------------------------------------------------------------------------------------------------------------:|
-||
 |<a href="https://github.com/jamirawan"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://twitter.com/jamirawan"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/irawanirawan/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
