@@ -1,8 +1,6 @@
 ### Hi there Irawan here :octocat:
 
-
 ![Wayang Irawan skating](https://cdn.dribbble.com/users/1547499/screenshots/8616705/media/8bfa2f343b9c1834a25e45d81735a430.gif)
-
 
 
 Visit my profile page: [irawan.io](https://irawan.io)
@@ -35,7 +33,7 @@ Visit my profile page: [irawan.io](https://irawan.io)
 
 ![Irawan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamirawan)
 
-|  <a href="https://jamirawan.github.io/"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="150px" height="150px" /></a> |
+
 |:---------------------------------------------------------------------------------------------------------------------------------------:|
 ||
 |<a href="https://github.com/jamirawan"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://twitter.com/jamirawan"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/irawanirawan/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
