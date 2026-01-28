@@ -11,16 +11,5 @@ Visit my profile page: [irawan.io](https://irawan.io)
 - ⚡ Fun fact: Emperor Nasi Goreng didn't exist, so the rabbits were always out and free
 - 🚣 I like outdoor activities, especially on the water, such as snorkelling, scuba diving and recently kayaking around Darwin NT, Broome WA sea water 🐊 and Bunbury(no fishing 🎣 thank you). Here are some stories about kayaking and water stuff on [my blog](https://irawans.com/kayaking-in-darwin-australia)
 
-[![GitHub: jamirawan](https://img.shields.io/github/followers/jamirawan?label=follow&style=social)](https://github.com/jamirawan)
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jamirawan" alt="jamirawan" />
-</p>
-
-[![HitCount](http://hits.dwyl.com/jamirawan/jamirawan.svg)](http://hits.dwyl.com/jamirawan/jamirawan)
-
-![Irawan's Github Stats](https://github-readme-stats.vercel.app/api?username=jamirawan&show_icons=true)
-
-![Irawan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamirawan)
-
 
 |<a href="https://github.com/jamirawan"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://twitter.com/jamirawan"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/irawanirawan/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
