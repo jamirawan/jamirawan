@@ -3,7 +3,7 @@
 ![Wayang Irawan skating](https://cdn.dribbble.com/users/1547499/screenshots/8616705/media/8bfa2f343b9c1834a25e45d81735a430.gif)
 
 
-- 🔭 I’m currently working on Drupal and WordPress projects for my clients
+- 🔭 I’m no longer working on Drupal and WordPress projects for my clients, just having fun now 
 - 🌱 I’m currently learning how to be a dad and anything new about web dev constantly
 - 😄 Pronouns: he
 - ⚡ Fun fact: Emperor Nasi Goreng didn't exist, so the rabbits were always out and free
